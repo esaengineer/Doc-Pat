@@ -1,0 +1,143 @@
+/*a.login-btn:hover
+{
+	/*color: white;
+	background-color: #566;
+	border:none;
+	border-radius: 4px;
+	padding:3px 13px 3px 13px;*/
+}
+*/
+
+/* CSS */
+.button-18 {
+  align-items: center;
+  background-color: #0A66C2;
+  border: 0;
+  border-radius: 100px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 20px;
+  max-width: 480px;
+  min-height: 40px;
+  min-width: 0px;
+  overflow: hidden;
+  padding: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  touch-action: manipulation;
+  transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  text-decoration: none;
+}
+
+.button-18:hover,
+.button-18:focus { 
+  text-decoration: none !important;
+  background-color: #16437E;
+  color: #ffffff;
+}
+
+.button-18:active {
+  background: #09223b;
+  color: rgb(255, 255, 255, .7);
+}
+
+.button-18:disabled { 
+  cursor: not-allowed;
+  background: rgba(0, 0, 0, .08);
+  color: rgba(0, 0, 0, .3);
+}
+
+
+table th {
+  font-family: verdana !important;
+  font-size: 27px !important;
+}
+
+.stylish-col
+{
+  background-color: #E8F6F3 !important;
+}
+
+.stylish-col1
+{
+  background-color: #A2D9CE !important;
+}
+
+
+input[type=text], input[type=password] {
+  padding:10px;
+  border:0;
+  box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+
+.card-header
+{
+  text-align:left !important;
+}
+.form-box
+{
+box-shadow: 1px 1px 1px 1px #ABB2B9;
+}
+
+.bottom-part
+{
+  padding-top: 10px !important;
+/*  padding-bottom: 100% !important;*/
+}
+
+.box 
+{
+  padding-bottom: 100% !important;
+}
+.bottom-container
+{
+  background-color: #45B39D !important;
+  width: 100% !important;
+}
+
+
+.bottom-container p
+{
+   padding:1% !important;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #45B39D !important;
+   color: white;
+   text-align: center;
+
+
+}
+
+
+@media (min-width: 200px) and (max-width: 780px ) {
+
+.top-navbar
+{
+  padding-bottom:8% !important;
+}
+
+
+}
+
+
+@media (min-width: 200px) and (max-width: 480px ) 
+{
+.top-navbar
+{
+  padding-bottom: 14% !important;
+}
+
+
+}
